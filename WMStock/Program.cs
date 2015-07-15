@@ -8,7 +8,7 @@ namespace WMStock
 {
     class Program
     {
-        private static String ACCESS_TOKEN = "ad2cbd3056422d26f6a4bad6ca331f250a480b60aed8739274589421ffbbd273";
+        private static String ACCESS_TOKEN = "";//put your token here
 
         static void Main(string[] args)
         {
@@ -17,6 +17,9 @@ namespace WMStock
 
         static async Task RunAsync()
         {
+            if (string.IsNullOrEmpty(ACCESS_TOKEN))
+                throw new ArgumentException("Please set your access token first!");
+
             using (var client = new HttpClient())
             {
                 client.Timeout = new TimeSpan(0, 0, 60);
