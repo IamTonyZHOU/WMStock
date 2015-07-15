@@ -1,0 +1,6 @@
+C:\Users\tzhou035\Documents\GitHub\WMStock\WMStock\bin\Debug\WMStock.exe.config
+C:\Users\tzhou035\Documents\GitHub\WMStock\WMStock\obj\Debug\WMStock.csprojResolveAssemblyReference.cache
+C:\Users\tzhou035\Documents\GitHub\WMStock\WMStock\bin\Debug\WMStock.exe
+C:\Users\tzhou035\Documents\GitHub\WMStock\WMStock\bin\Debug\WMStock.pdb
+C:\Users\tzhou035\Documents\GitHub\WMStock\WMStock\obj\Debug\WMStock.exe
+C:\Users\tzhou035\Documents\GitHub\WMStock\WMStock\obj\Debug\WMStock.pdb
